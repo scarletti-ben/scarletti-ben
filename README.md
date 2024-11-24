@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scarletti-ben
-- 🌱 I’m currently learning Python, HTML
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Lua and C#
 - 📫 How to reach me notspam95@gmail.com
 
 <!---
