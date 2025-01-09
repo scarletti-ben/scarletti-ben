@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @scarletti-ben
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Lua and C#
-- 📫 How to reach me scarletti.ben@gmail.com
+- Hello! I’m @scarletti-ben and I’m currently learning Python, HTML, CSS, JavaScript, Lua and C#
+- You can reach me at scarletti.ben@gmail.com
 
 <!---
 scarletti-ben/scarletti-ben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
