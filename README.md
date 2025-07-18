@@ -1,4 +1,4 @@
-- Hello! I’m @scarletti-ben and I’m currently learning Python, HTML, CSS, JavaScript, Lua and C#
+- Hello! I’m @scarletti-ben and I am a developer working primarily with JavaScript, HTML, CSS and Python. I enjoy learning while working on personal projects
 - You can reach me at scarletti.ben@gmail.com
 
 <!---
